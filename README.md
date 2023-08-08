@@ -1,1 +1,1 @@
-A guess a number game developed in java language
+A guess number game developed in java language
